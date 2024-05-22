@@ -100,12 +100,12 @@ Q: Can I work on multiple issues at once?
 A: It’s best to focus on one issue at a time to ensure quality and manageability. Complete and submit a pull request for one issue before starting on another.
 
 ## Resources
-[How to push code to Github](https://www.youtube.com/watch?v=wrb7Gge9yoE)
-[How to Get a GitHub Student Developer Pack](https://www.freecodecamp.org/news/github-student-developer-pack/)
-[How to Use Git and GitHub – a Guide for Beginners and Experienced Developers](https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/)
-[Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples]([https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
-[How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners](https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/)
-[How to Find Good First Issues On GitHub](https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/)
+* How to push code to Github - <https://www.youtube.com/watch?v=wrb7Gge9yoE>
+* How to Get a GitHub Student Developer Pack - <https://www.freecodecamp.org/news/github-student-developer-pack/>
+* How to Use Git and GitHub – a Guide for Beginners and Experienced Developers -  <https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/>
+* Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples - <https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/>
+* How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners - <https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/>
+* How to Find Good First Issues On GitHub - <https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/>
 
 
 
