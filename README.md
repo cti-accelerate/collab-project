@@ -28,24 +28,24 @@ To get started with contributing to the project, follow these steps:
 3. Navigate to the project directory:
    `cd cti-accelerate`
    
-~~4. Install required dependencies~~
+   ~~4. Install required dependencies~~
 
 5. Start contributing:
 
-  I. Pick an issue or task from the Issues tab.
-  II. Create a new branch for your work:
-  ```sh
-  git checkout -b your-feature-branch
-```
-  III. Make your changes and commit them with a descriptive message:
-  ``` sh
-git commit -m "Add feature X"
-  ```
-  IV. Push your branch to your forked repository:
-  ```sh
-  git push origin your-feature-branch
-```
-  V. Open a pull request to the main repository.
+     I. Pick an issue or task from the Issues tab.
+     II. Create a new branch for your work:
+     ```sh
+     git checkout -b your-feature-branch
+   ```
+     III. Make your changes and commit them with a descriptive message:
+     ``` sh
+   git commit -m "Add feature X"
+     ```
+     IV. Push your branch to your forked repository:
+     ```sh
+     git push origin your-feature-branch
+   ```
+     V. Open a pull request to the main repository.
 
   
 ## Contributing
